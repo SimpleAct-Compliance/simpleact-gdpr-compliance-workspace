@@ -1,0 +1,18 @@
+# SimpleAct — DSGVO-Arbeitsbereich
+
+> Die drei Grundlagen, auf die jede weitere Datenschutzpflicht zurückgreift: Verarbeitungsverzeichnis, Rechtsgrundlage und Betroffenenrechte. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+
+Kernaussagen: Eine Verarbeitungstätigkeit ist **nicht** dasselbe wie ein System — ein Eintrag je Zweck, nicht je System. Die Rechtsgrundlage steht nicht in Art. 30, gehört aber in den Eintrag, weil sie bestimmt, welche Betroffenenrechte greifen. Die Ausnahme für unter 250 Beschäftigte (Art. 30 Abs. 5) greift praktisch selten, weil laufende Verarbeitung nicht „gelegentlich" ist. Die Monatsfrist für Betroffenenanfragen startet mit Eingang **bei der Organisation**, nicht beim Datenschutzbeauftragten; eine Verlängerung muss innerhalb des ersten Monats mitgeteilt und begründet werden.
+
+## Wissensbasis
+
+- [Das Verarbeitungsverzeichnis](knowledge-base/verarbeitungsverzeichnis.md): Pflichtinhalte nach Art. 30 Abs. 1 und 2, drei Angaben die fehlen und trotzdem hineingehören (Rechtsgrundlage, Systeme, verantwortliche Person), Zuschnitt der Einträge mit Beispielen, die Ausnahme nach Abs. 5, Pflegeauslöser.
+- [Rechtsgrundlagen](knowledge-base/rechtsgrundlagen.md): die sechs Tatbestände des Art. 6 Abs. 1 mit typischen Fehlern, Art. 9 als zweistufige Prüfung, wo besondere Kategorien unbemerkt entstehen, die dreistufige Abwägung beim berechtigten Interesse und ihr Verhältnis zum Wettbewerbsrecht bei Direktwerbung.
+- [Betroffenenrechte](knowledge-base/betroffenenrechte.md): Fristen nach Art. 12, Identitätsprüfung in beide Richtungen falsch, Umfang der Auskunft nach Art. 15, Löschung und ihre Ausnahmen, Einschränkung als Kompromiss, die zwei Fälle des Widerspruchs, Art. 22 als Brücke zum AI Act.
+
+## Vorlagen
+
+- [Eintrag im Verarbeitungsverzeichnis](templates/verarbeitungstaetigkeit.md), Pflichtfelder nach Art. 30 markiert
+- [Bearbeitung einer Betroffenenanfrage](templates/betroffenenanfrage.md), mit Fristenuhr ab Eingang bei der Organisation
+
+Keine Rechtsberatung. Stand: September 2026. Lizenz: MIT.
